@@ -88,6 +88,10 @@ body {
    background-size: cover;
    
 }
+.text-container p span{
+    color: rgb(226, 212, 13) !important;
+    font-size: x-large;
+}
 .text-container {
   width: 80%;
   height: 80%;

@@ -10,7 +10,7 @@ body {
   margin: auto;
   background-image: url(https://assets.codepen.io/4927073/Group2.png), url(https://assets.codepen.io/4927073/Background6.png);
   background-image: url(https://assets.codepen.io/4927073/Group2.png), linear-gradient(33deg, #edf2f7, #edf2f7);
-  background-image: url(https://assets.codepen.io/4927073/Group2.png),  linear-gradient(33deg, #2c303a, #2c303a);
+  background-image: url(https://assets.codepen.io/4927073/Group2.png),  linear-gradient(33deg, #bd1e1e, #800202);
   background-size: cover;
   background-position: 50% 50%;
 }
